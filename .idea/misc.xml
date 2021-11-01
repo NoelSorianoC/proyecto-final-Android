@@ -5,20 +5,18 @@
       <map>
         <entry key="..\:/Users/ITCA/AndroidStudioProjects/proyecto_final/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/drawable/ic_appfinal_foreground.xml" value="0.378125" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/drawable/side_nav_bar.xml" value="0.378125" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.238671875" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout-w936dp/activity_login.xml" value="0.271484375" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/activity_login.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/app_bar_main.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/content_main.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/fragment_gallery.xml" value="0.3619791666666667" />
-        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/menu/activity_main_drawer.xml" value="0.3619791666666667" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/drawable/ic_login.xml" value="0.37083333333333335" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.36171875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout-w936dp/activity_login.xml" value="0.266015625" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/ITCA/Desktop/proyecto-final-Android/app/src/main/res/menu/main.xml" value="0.3619791666666667" />
         <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout/app_bar_main.xml" value="0.3546875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout/content_main.xml" value="0.3546875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/layout/fragment_gallery.xml" value="0.3546875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/menu/activity_main_drawer.xml" value="0.3546875" />
-        <entry key="..\:/Users/ITCA/Documents/GitHub/proyecto-final-Android/app/src/main/res/menu/main.xml" value="0.3546875" />
       </map>
     </option>
   </component>
